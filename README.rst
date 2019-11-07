@@ -2,6 +2,8 @@
 Fish project
 ################################################################################
 
+https://travis-ci.org/hrheydarian/fish-project.svg?branch=master
+
 secret fish project about fishing
 
 
