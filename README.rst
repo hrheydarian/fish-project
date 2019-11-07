@@ -2,7 +2,7 @@
 Fish project
 ################################################################################
 
-https://travis-ci.org/hrheydarian/fish-project.svg
+[![Build Status](https://travis-ci.org/hrheydarian/fish-project.svg?branch=master)](https://travis-ci.org/hrheydarian/fish-project)
 
 secret fish project about fishing
 
